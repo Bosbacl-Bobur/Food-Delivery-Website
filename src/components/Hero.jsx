@@ -5,4 +5,4 @@ const Hero = () => {
         <div>Hero</div>
     )
 }
-export default Heros
+export default Hero
